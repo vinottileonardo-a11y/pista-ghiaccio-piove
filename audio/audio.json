@@ -453,7 +453,7 @@
   "id": "regole",
   "file": "regole.mp3",
   "categoria": "annunci",
-  "testo": "Per divertirci tutti in sicurezza: si pattina in un solo senso, non si corre e non si spinge. Grazie!"
+  "testo": "Attenzione! In pista sono vietati spinte, sgambetti e scontri, e i pinguini non si spingono ad alta velocità. Si pattina tutti in un solo senso, con prudenza. Grazie!"
  },
  {
   "id": "pausa_ghiaccio",
@@ -502,6 +502,12 @@
   "file": "rientro.mp3",
   "categoria": "servizi",
   "testo": "Lo sapevate? Il biglietto della pista vale tutto il giorno! Potete uscire, fare un giro per i negozi e rientrare quando volete: conservate la ricevuta e mostratela alla cassa."
+ },
+ {
+  "id": "sicurezza",
+  "file": "sicurezza.mp3",
+  "categoria": "servizi",
+  "testo": "Un piccolo promemoria per la sicurezza di tutti: niente spinte, niente sgambetti e niente scontri! I pinguini servono ad aiutare i più piccoli: non si spingono a tutta velocità. Divertiamoci, ma con giudizio!"
  },
  {
   "id": "centro_1",
