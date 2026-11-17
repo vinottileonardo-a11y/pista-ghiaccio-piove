@@ -1,0 +1,596 @@
+[
+ {
+  "id": "pinguino_1",
+  "file": "pinguino_1.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 1, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 1
+ },
+ {
+  "id": "pinguino_2",
+  "file": "pinguino_2.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 2, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 2
+ },
+ {
+  "id": "pinguino_3",
+  "file": "pinguino_3.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 3, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 3
+ },
+ {
+  "id": "pinguino_4",
+  "file": "pinguino_4.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 4, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 4
+ },
+ {
+  "id": "pinguino_5",
+  "file": "pinguino_5.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 5, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 5
+ },
+ {
+  "id": "pinguino_6",
+  "file": "pinguino_6.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 6, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 6
+ },
+ {
+  "id": "pinguino_7",
+  "file": "pinguino_7.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 7, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 7
+ },
+ {
+  "id": "pinguino_8",
+  "file": "pinguino_8.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 8, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 8
+ },
+ {
+  "id": "pinguino_9",
+  "file": "pinguino_9.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 9, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 9
+ },
+ {
+  "id": "pinguino_10",
+  "file": "pinguino_10.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 10, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 10
+ },
+ {
+  "id": "pinguino_11",
+  "file": "pinguino_11.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 11, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 11
+ },
+ {
+  "id": "pinguino_12",
+  "file": "pinguino_12.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 12, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 12
+ },
+ {
+  "id": "pinguino_13",
+  "file": "pinguino_13.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 13, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 13
+ },
+ {
+  "id": "pinguino_14",
+  "file": "pinguino_14.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 14, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 14
+ },
+ {
+  "id": "pinguino_15",
+  "file": "pinguino_15.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 15, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 15
+ },
+ {
+  "id": "pinguino_16",
+  "file": "pinguino_16.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 16, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 16
+ },
+ {
+  "id": "pinguino_17",
+  "file": "pinguino_17.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 17, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 17
+ },
+ {
+  "id": "pinguino_18",
+  "file": "pinguino_18.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 18, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 18
+ },
+ {
+  "id": "pinguino_19",
+  "file": "pinguino_19.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 19, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 19
+ },
+ {
+  "id": "pinguino_20",
+  "file": "pinguino_20.mp3",
+  "categoria": "pinguini",
+  "testo": "Attenzione attenzione! Pinguino numero 20, tempo terminato! Riportate il pinguino alla cassa, grazie!",
+  "numero": 20
+ },
+ {
+  "id": "pinguino_sollecito_1",
+  "file": "pinguino_sollecito_1.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 1... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 1
+ },
+ {
+  "id": "pinguino_sollecito_2",
+  "file": "pinguino_sollecito_2.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 2... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 2
+ },
+ {
+  "id": "pinguino_sollecito_3",
+  "file": "pinguino_sollecito_3.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 3... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 3
+ },
+ {
+  "id": "pinguino_sollecito_4",
+  "file": "pinguino_sollecito_4.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 4... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 4
+ },
+ {
+  "id": "pinguino_sollecito_5",
+  "file": "pinguino_sollecito_5.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 5... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 5
+ },
+ {
+  "id": "pinguino_sollecito_6",
+  "file": "pinguino_sollecito_6.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 6... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 6
+ },
+ {
+  "id": "pinguino_sollecito_7",
+  "file": "pinguino_sollecito_7.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 7... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 7
+ },
+ {
+  "id": "pinguino_sollecito_8",
+  "file": "pinguino_sollecito_8.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 8... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 8
+ },
+ {
+  "id": "pinguino_sollecito_9",
+  "file": "pinguino_sollecito_9.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 9... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 9
+ },
+ {
+  "id": "pinguino_sollecito_10",
+  "file": "pinguino_sollecito_10.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 10... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 10
+ },
+ {
+  "id": "pinguino_sollecito_11",
+  "file": "pinguino_sollecito_11.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 11... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 11
+ },
+ {
+  "id": "pinguino_sollecito_12",
+  "file": "pinguino_sollecito_12.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 12... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 12
+ },
+ {
+  "id": "pinguino_sollecito_13",
+  "file": "pinguino_sollecito_13.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 13... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 13
+ },
+ {
+  "id": "pinguino_sollecito_14",
+  "file": "pinguino_sollecito_14.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 14... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 14
+ },
+ {
+  "id": "pinguino_sollecito_15",
+  "file": "pinguino_sollecito_15.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 15... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 15
+ },
+ {
+  "id": "pinguino_sollecito_16",
+  "file": "pinguino_sollecito_16.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 16... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 16
+ },
+ {
+  "id": "pinguino_sollecito_17",
+  "file": "pinguino_sollecito_17.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 17... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 17
+ },
+ {
+  "id": "pinguino_sollecito_18",
+  "file": "pinguino_sollecito_18.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 18... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 18
+ },
+ {
+  "id": "pinguino_sollecito_19",
+  "file": "pinguino_sollecito_19.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 19... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 19
+ },
+ {
+  "id": "pinguino_sollecito_20",
+  "file": "pinguino_sollecito_20.mp3",
+  "categoria": "pinguini_sollecito",
+  "testo": "Pinguino numero 20... ti stiamo ancora aspettando! Torna alla cassa, che i tuoi amici pinguini sentono la tua mancanza!",
+  "numero": 20
+ },
+ {
+  "id": "pinguino_ultima_1",
+  "file": "pinguino_ultima_1.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 1, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 1
+ },
+ {
+  "id": "pinguino_ultima_2",
+  "file": "pinguino_ultima_2.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 2, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 2
+ },
+ {
+  "id": "pinguino_ultima_3",
+  "file": "pinguino_ultima_3.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 3, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 3
+ },
+ {
+  "id": "pinguino_ultima_4",
+  "file": "pinguino_ultima_4.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 4, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 4
+ },
+ {
+  "id": "pinguino_ultima_5",
+  "file": "pinguino_ultima_5.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 5, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 5
+ },
+ {
+  "id": "pinguino_ultima_6",
+  "file": "pinguino_ultima_6.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 6, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 6
+ },
+ {
+  "id": "pinguino_ultima_7",
+  "file": "pinguino_ultima_7.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 7, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 7
+ },
+ {
+  "id": "pinguino_ultima_8",
+  "file": "pinguino_ultima_8.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 8, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 8
+ },
+ {
+  "id": "pinguino_ultima_9",
+  "file": "pinguino_ultima_9.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 9, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 9
+ },
+ {
+  "id": "pinguino_ultima_10",
+  "file": "pinguino_ultima_10.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 10, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 10
+ },
+ {
+  "id": "pinguino_ultima_11",
+  "file": "pinguino_ultima_11.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 11, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 11
+ },
+ {
+  "id": "pinguino_ultima_12",
+  "file": "pinguino_ultima_12.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 12, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 12
+ },
+ {
+  "id": "pinguino_ultima_13",
+  "file": "pinguino_ultima_13.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 13, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 13
+ },
+ {
+  "id": "pinguino_ultima_14",
+  "file": "pinguino_ultima_14.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 14, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 14
+ },
+ {
+  "id": "pinguino_ultima_15",
+  "file": "pinguino_ultima_15.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 15, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 15
+ },
+ {
+  "id": "pinguino_ultima_16",
+  "file": "pinguino_ultima_16.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 16, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 16
+ },
+ {
+  "id": "pinguino_ultima_17",
+  "file": "pinguino_ultima_17.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 17, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 17
+ },
+ {
+  "id": "pinguino_ultima_18",
+  "file": "pinguino_ultima_18.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 18, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 18
+ },
+ {
+  "id": "pinguino_ultima_19",
+  "file": "pinguino_ultima_19.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 19, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 19
+ },
+ {
+  "id": "pinguino_ultima_20",
+  "file": "pinguino_ultima_20.mp3",
+  "categoria": "pinguini_ultima",
+  "testo": "Pinguino numero 20, ultima chiamata! Riportatelo subito alla cassa, grazie!",
+  "numero": 20
+ },
+ {
+  "id": "benvenuto",
+  "file": "benvenuto.mp3",
+  "categoria": "annunci",
+  "testo": "Benvenuti alla pista di pattinaggio di Piazza Grande! Pattini ai piedi, sorriso stampato in faccia e... buon divertimento a tutti!"
+ },
+ {
+  "id": "apertura",
+  "file": "apertura.mp3",
+  "categoria": "orari",
+  "testo": "La pista è aperta! Si parte: tutti sul ghiaccio!"
+ },
+ {
+  "id": "chiusura_15min",
+  "file": "chiusura_15min.mp3",
+  "categoria": "orari",
+  "testo": "Mancano quindici minuti alla chiusura: godetevi gli ultimi giri!"
+ },
+ {
+  "id": "chiusura_5min",
+  "file": "chiusura_5min.mp3",
+  "categoria": "orari",
+  "testo": "Ultimi cinque minuti sul ghiaccio! Preparatevi a uscire dalla pista."
+ },
+ {
+  "id": "chiusura",
+  "file": "chiusura.mp3",
+  "categoria": "orari",
+  "testo": "La pista è chiusa! Grazie a tutti, vi aspettiamo presto!"
+ },
+ {
+  "id": "regole",
+  "file": "regole.mp3",
+  "categoria": "annunci",
+  "testo": "Per divertirci tutti in sicurezza: si pattina in un solo senso, non si corre e non si spinge. Grazie!"
+ },
+ {
+  "id": "pausa_ghiaccio",
+  "file": "pausa_ghiaccio.mp3",
+  "categoria": "annunci",
+  "testo": "La pista chiude per qualche minuto per sistemare il ghiaccio. Torniamo subito!"
+ },
+ {
+  "id": "riapertura",
+  "file": "riapertura.mp3",
+  "categoria": "annunci",
+  "testo": "Il ghiaccio è pronto, liscio come uno specchio! La pista è di nuovo aperta!"
+ },
+ {
+  "id": "noleggio_pinguini",
+  "file": "noleggio_pinguini.mp3",
+  "categoria": "annunci",
+  "testo": "Per i più piccoli e per chi è alle prime armi, alla cassa vi aspettano i nostri pinguini: cinque euro per mezz'ora! Si pattina tenendosi a loro, e cadere diventa... quasi impossibile!"
+ },
+ {
+  "id": "auguri_natale",
+  "file": "auguri_natale.mp3",
+  "categoria": "feste",
+  "testo": "Tanti auguri di buon Natale da tutta la pista di pattinaggio di Piazza Grande!"
+ },
+ {
+  "id": "auguri_capodanno",
+  "file": "auguri_capodanno.mp3",
+  "categoria": "feste",
+  "testo": "Buon anno a tutti! Il nuovo anno si comincia pattinando!"
+ },
+ {
+  "id": "ultimo_giorno",
+  "file": "ultimo_giorno.mp3",
+  "categoria": "feste",
+  "testo": "Oggi è l'ultimo giorno della pista di pattinaggio di Piazza Grande: grazie di cuore a tutti e arrivederci alla prossima stagione!"
+ },
+ {
+  "id": "frittelle",
+  "file": "frittelle.mp3",
+  "categoria": "servizi",
+  "testo": "Un po' di fame dopo tanti giri sul ghiaccio? Proprio accanto alla pista c'è lo stand delle frittelle, calde e golose! Vi aspettiamo!"
+ },
+ {
+  "id": "rientro",
+  "file": "rientro.mp3",
+  "categoria": "servizi",
+  "testo": "Lo sapevate? Il biglietto della pista vale tutto il giorno! Potete uscire, fare un giro per i negozi e rientrare quando volete: conservate la ricevuta e mostratela alla cassa."
+ },
+ {
+  "id": "centro_1",
+  "file": "centro_1.mp3",
+  "categoria": "servizi",
+  "testo": "Un grazie speciale allo Shopping Center Piazza Grande, che quest'anno ci regala la magia del ghiaccio! Piazza Grande: grande in tutto, anche nel divertimento!"
+ },
+ {
+  "id": "centro_2",
+  "file": "centro_2.mp3",
+  "categoria": "servizi",
+  "testo": "Dopo il pattinaggio, una passeggiata tra i negozi dello Shopping Center Piazza Grande! Regali di Natale, shopping e tante idee per tutta la famiglia... tutto in un unico posto!"
+ },
+ {
+  "id": "centro_3",
+  "file": "centro_3.mp3",
+  "categoria": "servizi",
+  "testo": "Shopping Center Piazza Grande: il cuore dello shopping di Piove di Sacco! Negozi, ristoro, parcheggio comodo e, quest'inverno, anche la pista sul ghiaccio. Cosa volete di più?"
+ },
+ {
+  "id": "centro_4",
+  "file": "centro_4.mp3",
+  "categoria": "servizi",
+  "testo": "Il Natale più bello di Piove di Sacco è a Piazza Grande! Luci, vetrine, regali e il ghiaccio sotto i pattini. Grazie a tutti i negozi del centro che rendono speciale questo inverno!"
+ },
+ {
+  "id": "passanti_1",
+  "file": "passanti_1.mp3",
+  "categoria": "passanti",
+  "testo": "Pista di pattinaggio di Piazza Grande: il ghiaccio più divertente di Piove di Sacco! Pattini, pinguini per i più piccoli e tanta musica. Vi aspettiamo!"
+ },
+ {
+  "id": "passanti_2",
+  "file": "passanti_2.mp3",
+  "categoria": "passanti",
+  "testo": "Quest'inverno regalatevi una giornata sul ghiaccio! Alla pista di Piazza Grande il divertimento è per tutta la famiglia, dai più piccoli ai nonni!"
+ },
+ {
+  "id": "passanti_3",
+  "file": "passanti_3.mp3",
+  "categoria": "passanti",
+  "testo": "Pattini ai piedi e via! Alla pista di Piazza Grande si scivola, si ride e ci si diverte insieme. E il biglietto vale tutto il giorno: si esce e si rientra quando si vuole!"
+ },
+ {
+  "id": "passanti_4",
+  "file": "passanti_4.mp3",
+  "categoria": "passanti",
+  "testo": "Avete mai visto un pinguino pattinare? Da noi sì! Con i nostri pinguini anche i più piccoli imparano a pattinare in un attimo. Pista di pattinaggio di Piazza Grande!"
+ },
+ {
+  "id": "passanti_5",
+  "file": "passanti_5.mp3",
+  "categoria": "passanti",
+  "testo": "Una pausa dallo shopping? Un pomeriggio speciale con i bambini? La pista di pattinaggio di Piazza Grande è il posto giusto. E accanto alla pista... frittelle calde per tutti!"
+ },
+ {
+  "id": "passanti_6",
+  "file": "passanti_6.mp3",
+  "categoria": "passanti",
+  "testo": "Luci, musica e ghiaccio: la magia dell'inverno è arrivata a Piazza Grande! Pista di pattinaggio... scivolare non è mai stato così bello!"
+ },
+ {
+  "id": "jingle_richiamo",
+  "file": "jingle_richiamo.mp3",
+  "categoria": "jingle",
+  "testo": "Campanellini e carillon (richiamo pinguini)"
+ },
+ {
+  "id": "jingle_annuncio",
+  "file": "jingle_annuncio.mp3",
+  "categoria": "jingle",
+  "testo": "Motivetto da organetto (prima degli annunci)"
+ },
+ {
+  "id": "jingle_chiusura",
+  "file": "jingle_chiusura.mp3",
+  "categoria": "jingle",
+  "testo": "Carillon discendente (chiusura)"
+ },
+ {
+  "id": "ta_da",
+  "file": "ta_da.mp3",
+  "categoria": "jingle",
+  "testo": "Fanfara festosa (apertura e auguri)"
+ },
+ {
+  "id": "sonagli",
+  "file": "sonagli.mp3",
+  "categoria": "jingle",
+  "testo": "Sonagli da slitta natalizi"
+ }
+]
