@@ -500,8 +500,8 @@
  {
   "id": "rientro",
   "file": "rientro.mp3",
-  "categoria": "servizi",
-  "testo": "Lo sapevate? Il biglietto della pista vale tutto il giorno! Potete uscire, fare un giro per i negozi e rientrare quando volete: conservate la ricevuta e mostratela alla cassa."
+  "categoria": "annunci",
+  "testo": "Venite a pattinare la mattina! Chi entra in pista al mattino può rientrare gratis nel pomeriggio con lo stesso biglietto: conservate la ricevuta e mostratela alla cassa!"
  },
  {
   "id": "sicurezza",
@@ -549,7 +549,7 @@
   "id": "passanti_3",
   "file": "passanti_3.mp3",
   "categoria": "passanti",
-  "testo": "Pattini ai piedi e via! Alla pista di Piazza Grande si scivola, si ride e ci si diverte insieme. E il biglietto vale tutto il giorno: si esce e si rientra quando si vuole!"
+  "testo": "Pattini ai piedi e via! Alla pista di Piazza Grande si scivola, si ride e ci si diverte insieme. E chi entra la mattina rientra gratis il pomeriggio!"
  },
  {
   "id": "passanti_4",
