@@ -504,6 +504,12 @@
   "testo": "Venite a pattinare la mattina! Chi entra in pista al mattino può rientrare gratis nel pomeriggio con lo stesso biglietto: conservate la ricevuta e mostratela alla cassa!"
  },
  {
+  "id": "rientro_2",
+  "file": "rientro_2.mp3",
+  "categoria": "annunci",
+  "testo": "Grande occasione, signore e signori! Salite in pista questa mattina... e potrete tornare a pattinare GRATIS per tutto il resto della giornata! Avete capito bene: un biglietto, una giornata intera sul ghiaccio! Conservate la ricevuta e vi aspettiamo!"
+ },
+ {
   "id": "sicurezza",
   "file": "sicurezza.mp3",
   "categoria": "servizi",
