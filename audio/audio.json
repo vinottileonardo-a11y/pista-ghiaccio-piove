@@ -516,6 +516,24 @@
   "testo": "Un piccolo promemoria per la sicurezza di tutti: niente spinte, niente sgambetti e niente scontri! I pinguini servono ad aiutare i più piccoli: non si spingono a tutta velocità. Divertiamoci, ma con giudizio!"
  },
  {
+  "id": "orari_1",
+  "file": "orari_1.mp3",
+  "categoria": "servizi",
+  "testo": "La pista di pattinaggio di Piazza Grande vi aspetta tutti i giorni, dalle dieci di mattina alle otto di sera, fino a domenica sette febbraio! Passate parola!"
+ },
+ {
+  "id": "orari_2",
+  "file": "orari_2.mp3",
+  "categoria": "servizi",
+  "testo": "Lo sapevate? Siamo aperti tutti i giorni, anche la domenica e nei giorni di festa, dalle dieci alle venti! E chi entra la mattina... rientra gratis il pomeriggio!"
+ },
+ {
+  "id": "inaugurazione",
+  "file": "inaugurazione.mp3",
+  "categoria": "feste",
+  "testo": "Si parte! Oggi apre la pista di pattinaggio di Piazza Grande! Da oggi fino al sette febbraio vi aspettiamo tutti i giorni, dalle dieci di mattina alle otto di sera. Pattini ai piedi e... buon divertimento a tutti!"
+ },
+ {
   "id": "centro_1",
   "file": "centro_1.mp3",
   "categoria": "servizi",
